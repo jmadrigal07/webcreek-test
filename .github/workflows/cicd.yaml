@@ -1,4 +1,4 @@
-name: CICD Process
+name: CICD Process Webcreek
 
 on:
   push:
